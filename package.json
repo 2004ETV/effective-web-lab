@@ -10,8 +10,11 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "random-users-generator": "^1.0.7",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-burger-menu": "^3.0.9",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.21.0"
   },
   "devDependencies": {
     "@types/react": "^18.2.43",
