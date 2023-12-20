@@ -14,8 +14,7 @@ const Navigation = (props: {
 
     return <nav className={style.nav}>
         <div className={style.logoContainer}>
-            <div className={style.logo}>{'T'}</div>
-            {props.logoText}
+            <img src={"logo.svg"} alt={"Logo"}/>
         </div>
 
         <div className={style.mobileLinks}>
